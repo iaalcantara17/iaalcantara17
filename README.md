@@ -1,16 +1,32 @@
-## Hi there 👋
+# 💫 About Me:
+I am a computer science major at the New Jersey Institute of Technology, passionate about exploring software engineering, artificial intelligence, and making applications
 
-<!--
-**iaalcantara17/iaalcantara17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Learning:
+- Full-Stack Development (MERN Stack)
 
-Here are some ideas to get you started:
+## 🚀 Projects:
+- [**My Portfolio Website**](https://iaalcantara17.github.io/portfolio-website/) - A responsive portfolio website built with React and TailwindCSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israel-alcantara/)
+
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## 📊 GitHub Stats:
+![]([![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=iaalcantara17)](https://github.com/iaalcantara17/github-readme-stats))<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=iaalcantara17&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iaalcantara17theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🎉 Fun Facts:
+- I love solving algorithmic challenges 🧠
+- Huge fan of coffee ☕ and late-night coding sessions 🌙
+
+---
+[![](https://visitcount.itsvg.in/api?id=iaalcantara17&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
