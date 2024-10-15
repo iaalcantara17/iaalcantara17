@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a computer science major at the New Jersey Institute of Technology, passionate about exploring software engineering, artificial intelligence, and making applications.
+Hello! I'm Israel Alcántara, a dedicated Computer Science major at the New Jersey Institute of Technology with a passion for creating impactful software solutions and learning new technologies. My passion lies in solving challenging coding problems and building projects that push my skills forward.
+
+Whether it's developing applications, collaborating on team projects, or organizing events as a leader, I’m always striving to grow and contribute. When I'm not coding, you can find me volunteering with the Society of Hispanic Professional Engineers (SHPE) or exploring new ways to improve efficiency and engagement in the workplace.
+
+I'm always eager to learn and excited to continue my journey in full-stack development, artificial intelligence, and beyond. Feel free to explore my projects, and don't hesitate to reach out!
 
 ## 🌱 Currently Learning:
 - Full-Stack Development (MERN Stack)
