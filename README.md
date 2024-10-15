@@ -31,3 +31,10 @@ I am a computer science major at the New Jersey Institute of Technology, passion
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iaalcantara17&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+## ❤️ Support Me:
+If you like my work, feel free to:
+- ⭐ Star the repositories
+- Contribute to my projects
+- [Buy me a coffee](https://www.buymeacoffee.com/iaalcantara17)
+
