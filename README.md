@@ -1,11 +1,11 @@
 # 💫 About Me:
-I am a computer science major at the New Jersey Institute of Technology, passionate about exploring software engineering, artificial intelligence, and making applications
+I am a computer science major at the New Jersey Institute of Technology, passionate about exploring software engineering, artificial intelligence, and making applications.
 
 ## 🌱 Currently Learning:
 - Full-Stack Development (MERN Stack)
 
 ## 🚀 Projects:
-- [**My Portfolio Website**](https://iaalcantara17.github.io/portfolio-website/) - A responsive portfolio website built with React and TailwindCSS.
+- [**My Portfolio Website**](https://iaalcantara17.github.io/portfolio-website/) - A responsive portfolio website built with HTML, JavaScript, and CSS.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israel-alcantara/)
