@@ -26,8 +26,8 @@ I am a computer science major at the New Jersey Institute of Technology, passion
 
 
 ## 🎉 Fun Facts:
-- I love solving algorithmic challenges 🧠
-- Huge fan of coffee ☕ and late-night coding sessions 🌙
+- I love a good challenge 🧠
+- Huge fan of coffee ☕
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iaalcantara17&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
@@ -36,5 +36,5 @@ I am a computer science major at the New Jersey Institute of Technology, passion
 If you like my work, feel free to:
 - ⭐ Star the repositories
 - Contribute to my projects
-- [Buy me a coffee](https://www.buymeacoffee.com/iaalcantara17)
+- [Buy me a coffee](https://buymeacoffee.com/iaalcantara17)
 
