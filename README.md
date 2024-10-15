@@ -26,17 +26,15 @@ I am a computer science major at the New Jersey Institute of Technology, passion
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iaalcantara17&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iaalcantara17&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 ## 🎉 Fun Facts:
 - I love a good challenge 🧠
 - Huge fan of coffee ☕
 
----
-[![](https://visitcount.itsvg.in/api?id=iaalcantara17&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
 ## ❤️ Support Me:
-If you like my work, feel free to:
+If you like my work or just want to support me, feel free to:
 - ⭐ Star the repositories
 - Contribute to my projects
 - [Buy me a coffee](https://buymeacoffee.com/iaalcantara17)
 
+---
+[![](https://visitcount.itsvg.in/api?id=iaalcantara17&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
