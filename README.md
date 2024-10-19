@@ -41,4 +41,4 @@ If you like my work or just want to support me, feel free to:
 - [Buy me a coffee](https://buymeacoffee.com/iaalcantara17)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iaalcantara17&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=iaalcantara17&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
