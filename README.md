@@ -6,7 +6,13 @@ Whether it's developing applications, collaborating on team projects, or organiz
 I'm always eager to learn and excited to continue my journey in full-stack development, artificial intelligence, and beyond. Feel free to explore my projects, and don't hesitate to reach out!
 
 ## 🌱 Currently Learning:
+
+# On My Own:
 - Full-Stack Development (MERN Stack)
+
+# In-Class:
+- Programming in Bash, C, and Python
+- Data Science
 
 ## 🚀 Projects:
 - [**My Portfolio Website**](https://iaalcantara17.github.io/portfolio-website/) - A responsive portfolio website built with HTML, JavaScript, and CSS.
