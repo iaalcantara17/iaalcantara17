@@ -7,10 +7,10 @@ I'm always eager to learn and excited to continue my journey in full-stack devel
 
 ## 🌱 Currently Learning:
 
-# On My Own:
+### On My Own:
 - Full-Stack Development (MERN Stack)
 
-# In-Class:
+### In-Class:
 - Programming in Bash, C, and Python
 - Data Science
 
