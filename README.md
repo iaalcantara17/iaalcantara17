@@ -11,8 +11,8 @@ I'm always eager to learn and excited to continue my journey in full-stack devel
 - Full-Stack Development (MERN Stack)
 
 ### In-Class:
-- Programming in Bash, C, and Python
-- Data Science
+- Programming in Bash, C, and Python within the Linux environment
+- An introduction to Data Science using Python and Jupyter notebooks
 
 ## 🚀 Projects:
 - [**My Portfolio Website**](https://iaalcantara17.github.io/portfolio-website/) - A responsive portfolio website built with HTML, JavaScript, and CSS.
