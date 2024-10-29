@@ -31,11 +31,14 @@ I'm always eager to learn and excited to continue my journey in full-stack devel
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iaalcantara17&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🎉 Fun Facts:
-- I love a good challenge 🧠
-- Huge fan of coffee ☕
+- I'm fueled by caffeine ☕—perfect for those late-night debugging sessions.
+- My work with the Society of Hispanic Professional Engineers (SHPE) has taught me as much about leadership as it has about tech.
+- I enjoy breaking down complex problems, whether it's in code or real life — problem-solving is my go-to skill.
+- Outside of coding, I'm always looking to streamline workflows and find new ways to improve productivity.
+- When I’m not on my laptop, you might catch me exploring new tech or organizing projects for my team. I also love playing basketball 🏀, drawing ✍, taking photos 📷, listening to music 🎵, playing the piano 🎹, and read 📕 during my free time.
 
 ## ❤️ Support Me:
-If you like my work or just want to support me, feel free to:
+If you like my work or want to support me, feel free to:
 - ⭐ Star the repositories
 - Contribute to my projects
 - [Buy me a coffee](https://buymeacoffee.com/iaalcantara17)
