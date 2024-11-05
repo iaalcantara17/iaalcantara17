@@ -9,8 +9,7 @@ I'm always eager to learn and excited to continue my journey in full-stack devel
 
 ### On My Own:
 - Full-Stack Development (MERN Stack)
-- Learning Flutter, Dart, Node.js, and Firebase to create a multi-platform app that checks artists dropping music within the last couple days.
-- #### Titled: RhythmiQ
+- Learning Flutter, Dart, Node.js, and Firebase to create a multi-platform app that checks artists dropping music within the last 30 days using Spotify API.
 
 ### In-Class:
 - Programming in Bash, C, and Python within the Linux environment
