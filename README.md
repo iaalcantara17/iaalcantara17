@@ -8,12 +8,11 @@ I'm always eager to learn and excited to continue my journey in full-stack devel
 ## 🌱 Currently Learning:
 
 ### On My Own:
-- Full-Stack Development (MERN Stack)
 - Learning Flutter, Dart, Node.js, and Firebase to create a multi-platform app that checks artists dropping music within the last 30 days using Spotify API.
 
 ### In-Class:
-- Programming in Bash, C, and Python within the Linux environment
-- An introduction to Data Science using Python and Jupyter notebooks
+- Programming in Bash, C, and Python within the Linux environment.
+- An introduction to Data Science and Machine Learning using Python and Jupyter notebooks.
 
 ## 🚀 Projects:
 - [**My Portfolio Website**](https://iaalcantara17.github.io/portfolio-website/) - A responsive portfolio website built with HTML, JavaScript, and CSS.
