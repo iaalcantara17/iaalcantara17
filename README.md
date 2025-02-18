@@ -50,4 +50,4 @@ If you like my work or want to support me, feel free to:
 - [Buy me a coffee](https://buymeacoffee.com/iaalcantara17)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iaalcantara17&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+  [![HitCount](https://hits.dwyl.com/iaalcantara17/iaalcantara17.svg?style=flat-square)](http://hits.dwyl.com/iaalcantara17/iaalcantara17)
