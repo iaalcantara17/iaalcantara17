@@ -50,4 +50,5 @@ If you like my work or want to support me, feel free to:
 - [Buy me a coffee](https://buymeacoffee.com/iaalcantara17)
 
 ---
-  [![HitCount](https://hits.dwyl.com/iaalcantara17/iaalcantara17.svg?style=flat-square)](http://hits.dwyl.com/iaalcantara17/iaalcantara17)
+[![HitCount](https://hits.dwyl.com/iaalcantara17/iaalcantara17.svg?style=flat&show=unique)](http://hits.dwyl.com/iaalcantara17/iaalcantara17)
+
