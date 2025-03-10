@@ -12,8 +12,9 @@ I'm always eager to learn and excited to continue my journey in full-stack devel
 
 ### In-Class:
 - Programming in Bash, C, and Python within the Linux environment.
-- An introduction to Data Science and Machine Learning using Python and Jupyter notebooks.
-
+- Learning about Database System Design & Management from a top-down approach.
+- Understanding the Principles of Operating Systems and how the different components of the computer work together.
+- Diving into the Introduction to Computer Networks.
 ## 🚀 Projects:
 - [**My Portfolio Website**](https://iaalcantara17.github.io/portfolio-website/) - A responsive portfolio website built with HTML, JavaScript, and CSS.
 
