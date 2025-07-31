@@ -8,7 +8,6 @@ I'm always eager to learn and excited to continue my journey in full-stack devel
 ## 🌱 Currently Learning:
 
 ### On My Own:
-- Learning Flutter, Dart, Node.js, and Firebase to create a multi-platform app that checks artists dropping music within the last 30 days using Spotify API.
 - Self-teaching myself Data Structures and Algorithms to better understand my past, present, and future classes.
 
 ### In-Class:
