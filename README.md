@@ -14,7 +14,6 @@ I'm always eager to learn and excited to continue my journey in full-stack devel
 - Programming in Bash, C, and Python within the Linux environment.
 - Learning about Database System Design & Management from a top-down approach.
 - Understanding the Principles of Operating Systems and how the different components of the computer work together.
-- Diving into the Introduction to Computer Networks.
 ## 🚀 Projects:
 - [**My Portfolio Website**](https://israelalcantara.vercel.app/) - A responsive portfolio website built with HTML, JavaScript, and CSS.
 
