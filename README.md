@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Israel Alcántara, a dedicated Third Year Computer Science major at the New Jersey Institute of Technology, passionate about creating impactful software solutions and learning new technologies. My passion lies in solving challenging coding problems and building projects that push my skills forward.
+Hello! I'm Israel Alcántara, a dedicated Fourth Year Computer Science major at the New Jersey Institute of Technology, passionate about creating impactful software solutions and learning new technologies. My passion lies in solving challenging coding problems and building projects that push my skills forward.
 
 Whether it's developing applications, collaborating on team projects, or organizing events as a leader, I’m always striving to grow and contribute. When I'm not coding, you can find me volunteering with the Society of Hispanic Professional Engineers (SHPE) or exploring new ways to improve efficiency and engagement in the workplace.
 
