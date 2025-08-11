@@ -23,7 +23,6 @@ I'm always eager to learn and excited to continue my journey in full-stack devel
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -48,7 +47,3 @@ If you like my work or want to support me, feel free to:
 - ⭐ Star the repositories
 - Contribute to my projects
 - [Buy me a coffee](https://buymeacoffee.com/iaalcantara17)
-
----
-[![Visitor Count](https://profile-counter.glitch.me/iaalcantara17/count.svg)](https://profile-counter.glitch.me/iaalcantara17/count.svg)
-
