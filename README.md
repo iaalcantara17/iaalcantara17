@@ -14,7 +14,7 @@
 
 CS graduate from **NJIT's Ying Wu College of Computing** (May 2026), former **AWS SDE Intern** on the Amazon Dedicated Cloud / BlackMirror team, and bilingual (English + Spanish) engineer based in **Newark, NJ**.
 
-I like working close to infrastructure — understanding how systems move data, where bottlenecks live, and how to instrument the right observability to find out. At AWS I shipped a lossless compression algorithm that cut metric export payloads by **up to 60 GB/day** across 3 air-gapped regions. Outside of work I build things that ship: my current project, **[LinkdUp](https://linkdup.app)**, is a live production app for group meetup coordination built with React Native, Supabase, and Node.js.
+I like working close to infrastructure. Understanding how systems move data, where bottlenecks live, and how to instrument the right observability to find out. At AWS I shipped a lossless compression algorithm that cut metric export payloads by **up to 60 GB/day** across 3 air-gapped regions. Outside of work I build things that ship. My current project, **[LinkdUp](https://linkdup.app)**, is a live production app for group meetup coordination built with React Native, Supabase, and Node.js.
 
 I'm looking for roles in **Cloud Support**, **Solutions Architecture**, **Bank Technology**, or **SWE** in the NYC/NJ metro area.
 
@@ -71,7 +71,7 @@ I'm looking for roles in **Cloud Support**, **Solutions Architecture**, **Bank T
 ### 🔗 [LinkdUp](https://linkdup.app)
 **React Native · TypeScript · Node.js · Supabase · Railway**
 
-Production app for group meetup coordination. Computes the geographic midpoint of all members, fetches nearby venues via Google Places, and runs a Tinder-style group swipe vote synced in real time via Supabase websockets. Match triggers a collaborative date vote → Google Calendar export. Also features AI venue pitches (Gemini 2.5) and a social discovery feed.
+Production app for group meetup coordination. Computes the geographic midpoint of all members, fetches nearby venues via Google Places, and runs a Tinder-style group swipe vote synced in real time via Supabase websockets. A match triggers a collaborative date vote, then a Google Calendar export. Also features AI venue pitches (Gemini 2.5) and a social discovery feed.
 
 `Live at linkdup.app` · NJIT CS491 Senior Capstone
 
@@ -97,13 +97,17 @@ Full compiler for the SFort95 language (Fortran95 subset), built across three st
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iaalcantara17&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iaalcantara17&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iaalcantara17&theme=tokyonight" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaalcantara17&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iaalcantara17&theme=tokyonight" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iaalcantara17&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=iaalcantara17&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -128,7 +132,11 @@ Full compiler for the SFort95 language (Fortran95 subset), built across three st
 
 ## ⚡ Outside the Terminal
 
-Basketball · Photography (Canon Rebel SL3) · Piano · Drawing · Hip-hop & Latin music · Hiking
+Basketball · Photography (Canon Rebel SL3) · Piano · Drawing · Music Enthusiast · Hiking
+
+**What I'm listening to:**
+
+[![Spotify](https://img.shields.io/badge/Check%20Out%20My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iaalcantara17)
 
 *Always building. Always learning. Fueled by coffee. ☕*
 
