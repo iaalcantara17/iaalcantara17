@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="268" viewBox="0 0 1000 268" role="img" aria-labelledby="title desc">
+  <title id="title">Languages across my public repos</title>
+  <desc id="desc">17 public repos. Languages by code size: TypeScript 55.7%, JavaScript 17.5%, Java 12.1%, C++ 3.3%, PLpgSQL 2.3%, Kotlin 2.2%, CSS 2.0%, C 1.9%, Other 3.0%.</desc>
+  <defs>
+    <radialGradient id="g1" cx="0.1" cy="0" r="0.6">
+      <stop offset="0" stop-color="#C9D8FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#C9D8FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="0.95" cy="1" r="0.6">
+      <stop offset="0" stop-color="#BDEBE3" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#BDEBE3" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1000" height="268" rx="20"/></clipPath>
+    <clipPath id="bar"><rect x="48" y="104" width="904" height="14" rx="7"/></clipPath>
+  </defs>
+  <style>
+    .title { font: 700 26px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; fill: #14213D; letter-spacing: -0.4px; }
+    .note { font: 400 15px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; fill: #55637F; }
+    .num { font: 700 26px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; fill: #14213D; }
+    .label { font: 400 15px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; fill: #55637F; }
+    .lang { font: 500 16px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; fill: #14213D; }
+    .pct { font: 400 16px -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; fill: #55637F; }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="268" fill="#F6F8FC"/>
+    <rect width="1000" height="268" fill="url(#g1)"/>
+    <rect width="1000" height="268" fill="url(#g2)"/>
+    <rect x="0.75" y="0.75" width="998.5" height="266.5" rx="19.5" fill="none" stroke="#14213D" stroke-opacity="0.08" stroke-width="1.5"/>
+  </g>
+  <text class="title" x="48" y="58">Languages across my public repos</text>
+  <text class="note" x="48" y="84">Share of code by size, including archived repos</text>
+  <text class="num" x="952" y="58" text-anchor="end">17</text>
+  <text class="label" x="952" y="84" text-anchor="end">public repos</text>
+  <rect x="48" y="104" width="904" height="14" rx="7" fill="#E3E8F2"/>
+  <g clip-path="url(#bar)">
+      <rect x="48.00" y="104" width="503.30" height="14" fill="#2563EB"/>
+      <rect x="551.30" y="104" width="158.05" height="14" fill="#0EA5A4"/>
+      <rect x="709.35" y="104" width="109.20" height="14" fill="#F59E0B"/>
+      <rect x="818.56" y="104" width="29.84" height="14" fill="#E11D48"/>
+      <rect x="848.40" y="104" width="20.93" height="14" fill="#7C3AED"/>
+      <rect x="869.33" y="104" width="20.10" height="14" fill="#16A34A"/>
+      <rect x="889.43" y="104" width="18.44" height="14" fill="#0891B2"/>
+      <rect x="907.87" y="104" width="17.31" height="14" fill="#DB2777"/>
+      <rect x="925.18" y="104" width="26.82" height="14" fill="#94A3B8"/>
+  </g>
+  <g transform="translate(48.00 160)">
+      <circle cx="6" cy="-5" r="6" fill="#2563EB"/>
+      <text class="lang" x="22" y="0">TypeScript</text>
+      <text class="pct" x="277.33" y="0" text-anchor="end">55.7%</text>
+    </g>
+    <g transform="translate(349.33 160)">
+      <circle cx="6" cy="-5" r="6" fill="#0EA5A4"/>
+      <text class="lang" x="22" y="0">JavaScript</text>
+      <text class="pct" x="277.33" y="0" text-anchor="end">17.5%</text>
+    </g>
+    <g transform="translate(650.67 160)">
+      <circle cx="6" cy="-5" r="6" fill="#F59E0B"/>
+      <text class="lang" x="22" y="0">Java</text>
+      <text class="pct" x="277.33" y="0" text-anchor="end">12.1%</text>
+    </g>
+    <g transform="translate(48.00 194)">
+      <circle cx="6" cy="-5" r="6" fill="#E11D48"/>
+      <text class="lang" x="22" y="0">C++</text>
+      <text class="pct" x="277.33" y="0" text-anchor="end">3.3%</text>
+    </g>
+    <g transform="translate(349.33 194)">
+      <circle cx="6" cy="-5" r="6" fill="#7C3AED"/>
+      <text class="lang" x="22" y="0">PLpgSQL</text>
+      <text class="pct" x="277.33" y="0" text-anchor="end">2.3%</text>
+    </g>
+    <g transform="translate(650.67 194)">
+      <circle cx="6" cy="-5" r="6" fill="#16A34A"/>
+      <text class="lang" x="22" y="0">Kotlin</text>
+      <text class="pct" x="277.33" y="0" text-anchor="end">2.2%</text>
+    </g>
+    <g transform="translate(48.00 228)">
+      <circle cx="6" cy="-5" r="6" fill="#0891B2"/>
+      <text class="lang" x="22" y="0">CSS</text>
+      <text class="pct" x="277.33" y="0" text-anchor="end">2.0%</text>
+    </g>
+    <g transform="translate(349.33 228)">
+      <circle cx="6" cy="-5" r="6" fill="#DB2777"/>
+      <text class="lang" x="22" y="0">C</text>
+      <text class="pct" x="277.33" y="0" text-anchor="end">1.9%</text>
+    </g>
+    <g transform="translate(650.67 228)">
+      <circle cx="6" cy="-5" r="6" fill="#94A3B8"/>
+      <text class="lang" x="22" y="0">Other</text>
+      <text class="pct" x="277.33" y="0" text-anchor="end">3.0%</text>
+    </g>
+</svg>

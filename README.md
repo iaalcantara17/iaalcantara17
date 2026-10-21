@@ -1,147 +1,95 @@
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Israel+Alc%C3%A1ntara+%F0%9F%91%8B;AWS+SDE+Intern+Alum;Full-Stack+%26+Cloud+Engineer;NJIT+CS+%E2%80%99+26" alt="Typing SVG" />
-
-<br/>
-
-<!-- Subtle divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="Israel Alcantara. Technical Project Management and IT. Cloud and Software Background. AWS SDE Intern Alum. NJIT CS '26 and Montclair MBA.">
+</picture>
 
 </div>
 
 ## 🚀 About Me
 
-CS graduate from **NJIT's Ying Wu College of Computing** (May 2026), former **AWS SDE Intern** on the Amazon Dedicated Cloud / BlackMirror team, and bilingual (English + Spanish) engineer based in **Newark, NJ**.
+I'm a CS graduate from NJIT's Ying Wu College of Computing (May 2026) and an online MBA student at Montclair State University. I interned as a software development engineer on the Amazon Dedicated Cloud BlackMirror team at AWS. There I built a lossless compression algorithm for metric exports. It reduced export payloads by an average of 38 GB per day, and by up to 60 GB per day, across 3 air-gapped regions.
 
-I like working close to infrastructure. Understanding how systems move data, where bottlenecks live, and how to instrument the right observability to find out. At AWS I shipped a lossless compression algorithm that cut metric export payloads by **up to 60 GB/day** across 3 air-gapped regions. Outside of work I build things that ship. My current project, **[LinkdUp](https://linkdup.app)**, is a live production app for group meetup coordination built with React Native, Supabase, and Node.js.
+I like working close to infrastructure. I care about how systems move data, where the bottlenecks are, and how to monitor them. I'm also drawn to the coordination side of technical work, which is why I'm studying project management alongside my CS background. I speak English and Spanish.
 
-I'm looking for roles in **Cloud Support**, **Solutions Architecture**, **Bank Technology**, or **SWE** in the NYC/NJ metro area.
+## 🎯 What I'm Looking For
 
-<br/>
+**Primary:** Technical Project Management, Project Management, IT roles, and Bank Technology Analyst programs.
 
----
+**Also open to:** cloud roles (Solutions Architecture, Cloud Support) and software engineering.
 
-## 🛠️ Tech Stack
+Based in New Jersey, open to roles across the NYC metro area.
 
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Cloud & Infra**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Frameworks & Tools**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-<br/>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="">
+</picture>
 
 ## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[LinkdUp](https://github.com/iaalcantara17/LinkdUp)** ([live at linkdup.app](https://linkdup.app))<br>
+A group meetup planner. Everyone shares a location, the group swipes on nearby spots around the midpoint, votes on a place, and locks in a date that can go straight to Google Calendar. Swiping is locked-step, so everyone votes on the same card before the deck moves on. It was a five-person NJIT CS/IT 491 capstone that placed 2nd, and I was the backend engineer. Built with TypeScript, Expo and React Native Web, an Express API on Render, Supabase, and the web app on Vercel.
 
-### 🔗 [LinkdUp](https://linkdup.app)
-**React Native · TypeScript · Node.js · Supabase · Railway**
+**[PortfolioV2](https://github.com/iaalcantara17/PortfolioV2)** ([live at israelalcantara.vercel.app](https://israelalcantara.vercel.app))<br>
+The source for my portfolio site, built with React 19, Vite, and GSAP. It has two Vercel serverless functions and 34 Playwright smoke tests that run in Chromium, Firefox, and WebKit in both light and dark mode.
 
-Production app for group meetup coordination. Computes the geographic midpoint of all members, fetches nearby venues via Google Places, and runs a Tinder-style group swipe vote synced in real time via Supabase websockets. A match triggers a collaborative date vote, then a Google Calendar export. Also features AI venue pitches (Gemini 2.5) and a social discovery feed.
+**[SFort95 Interpreter](https://github.com/iaalcantara17/SFort95-Interpreter)**<br>
+A lexer, a recursive-descent parser, and an interpreter in C++ for SFort95, a Fortran 95-style teaching language from NJIT's CS280. The interpreter runs each statement as it parses it and reports type and variable errors by line. The [lexer](https://github.com/iaalcantara17/Lexical-Analyzer-for-SFort95-Language) and [parser](https://github.com/iaalcantara17/Parser-for-SFort95-Language) repos are the earlier stages.
 
-`Live at linkdup.app` · NJIT CS491 Senior Capstone
+More projects are pinned above.
 
-</td>
-<td width="50%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="">
+</picture>
 
-### ⚙️ SFort95 Compiler
-**C++ · Git**
+## 🎓 Education and Coursework
 
-Full compiler for the SFort95 language (Fortran95 subset), built across three stages: a state-based **lexical analyzer**, a **recursive-descent parser** with operator-precedence handling, and an **interpreter** executing the parsed AST. Includes runtime error detection for undefined variables, type mismatches, and division by zero.
+**Montclair State University, Feliciano School of Business**<br>
+Online MBA (in progress)
+- Fall 2026 coursework: Global Economy (ECON 565), Business Statistics (INFO 561, with R and Excel), Strategic Information Systems (INFO 565), Business Essentials (MGMT 560)
+- Planned electives: Project Management, Agile Project Management, Advanced Project Management, Complex Project and Program Management
 
-`github.com/iaalcantara17`
+**New Jersey Institute of Technology, Ying Wu College of Computing**<br>
+B.S. Computer Science, cum laude (May 2026)
+- Coursework: Advanced Data Structures and Algorithms, Database System Design and Management, Principles of Operating Systems, Introduction to Computer Networks, Introduction to Machine Learning, Introduction to Cybersecurity, Designing the User Experience, Design in Software Engineering, Programming Language Concepts, Information Design Techniques, Introduction to Computer Science I and II (Java), Intensive Programming in Linux (Bash, C, Python, MongoDB, PHP, BeautifulSoup), Senior Capstone (LinkdUp)
 
-</td>
-</tr>
-</table>
+**Also:** CodePath Android Development with Kotlin ([FlixterPlus](https://github.com/iaalcantara17/FlixterPlus), [Wishlist](https://github.com/iaalcantara17/Wishlist), [codepath-wordle](https://github.com/iaalcantara17/codepath-wordle))
 
-<br/>
+## 🛠️ Technical Depth
 
----
+**Languages:** Java, Python, TypeScript, JavaScript, C++, C, Bash, SQL, Kotlin
 
-## 📊 GitHub Stats
+**Cloud and infrastructure:** AWS, Linux, Supabase, Render, Vercel, Git
 
-<div align="center">
+**Frameworks and tools:** React, React Native, Node.js, Express, Pandas, scikit-learn, MySQL, MongoDB
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iaalcantara17&theme=tokyonight" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="">
+</picture>
 
-<br/>
+## 📊 GitHub Activity
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iaalcantara17&theme=tokyonight" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iaalcantara17&theme=tokyonight" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" width="100%" alt="Languages across my public repos by code size, and my public repo count">
+</picture>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=iaalcantara17&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<br/>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iaalcantara17/iaalcantara17/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/iaalcantara17/iaalcantara17/output/github-snake.svg" width="100%" alt="Snake animation eating my GitHub contribution graph">
+</picture>
 
 ## 🌐 Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/israel-alcantara/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://israelalcantara.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iaa48@njit.edu)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iaalcantara17)
-
-</div>
-
-<br/>
-
----
+[LinkedIn](https://www.linkedin.com/in/israel-alcantara/) · [Portfolio](https://israelalcantara.vercel.app) · [Email](mailto:ialcantara2003@gmail.com) · [Buy Me a Coffee](https://buymeacoffee.com/iaalcantara17)
 
 ## ⚡ Outside the Terminal
 
-Basketball · Photography (Canon Rebel SL3) · Piano · Drawing · Music Enthusiast · Hiking
-
-**What I'm listening to:**
-
-[![Spotify](https://img.shields.io/badge/Check%20Out%20My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/iaalcantara17)
-
-*Always building. Always learning. Fueled by coffee. ☕*
+Basketball, photography (Canon Rebel SL3), piano, drawing, music, hiking.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<br/>
 <img src="https://komarev.com/ghpvc/?username=iaalcantara17&color=00d9ff&style=flat-square&label=profile+views" alt="profile views" />
 </div>
