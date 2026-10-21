@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="268" viewBox="0 0 1000 268" role="img" aria-labelledby="title desc">
   <title id="title">Languages across my public repos</title>
-  <desc id="desc">17 public repos. Languages by code size: TypeScript 55.7%, JavaScript 17.5%, Java 12.1%, C++ 3.3%, PLpgSQL 2.3%, Kotlin 2.2%, CSS 2.0%, C 1.9%, Other 3.0%.</desc>
+  <desc id="desc">17 public repos. Languages by code size: TypeScript 55.5%, JavaScript 17.8%, Java 12.0%, C++ 3.3%, PLpgSQL 2.3%, Kotlin 2.2%, CSS 2.0%, C 1.9%, Other 3.0%.</desc>
   <defs>
     <radialGradient id="g1" cx="0.1" cy="0" r="0.6">
       <stop offset="0" stop-color="#1D4ED8" stop-opacity="0.55"/>
@@ -33,30 +33,30 @@
   <text class="label" x="952" y="84" text-anchor="end">public repos</text>
   <rect x="48" y="104" width="904" height="14" rx="7" fill="#1C2740"/>
   <g clip-path="url(#bar)">
-      <rect x="48.00" y="104" width="503.30" height="14" fill="#60A5FA"/>
-      <rect x="551.30" y="104" width="158.05" height="14" fill="#2DD4BF"/>
-      <rect x="709.35" y="104" width="109.20" height="14" fill="#FBBF24"/>
-      <rect x="818.56" y="104" width="29.84" height="14" fill="#FB7185"/>
-      <rect x="848.40" y="104" width="20.93" height="14" fill="#A78BFA"/>
-      <rect x="869.33" y="104" width="20.10" height="14" fill="#4ADE80"/>
-      <rect x="889.43" y="104" width="18.44" height="14" fill="#22D3EE"/>
-      <rect x="907.87" y="104" width="17.31" height="14" fill="#F472B6"/>
-      <rect x="925.18" y="104" width="26.82" height="14" fill="#64748B"/>
+      <rect x="48.00" y="104" width="501.63" height="14" fill="#60A5FA"/>
+      <rect x="549.63" y="104" width="160.52" height="14" fill="#2DD4BF"/>
+      <rect x="710.16" y="104" width="108.84" height="14" fill="#FBBF24"/>
+      <rect x="819.00" y="104" width="29.74" height="14" fill="#FB7185"/>
+      <rect x="848.74" y="104" width="20.86" height="14" fill="#A78BFA"/>
+      <rect x="869.61" y="104" width="20.03" height="14" fill="#4ADE80"/>
+      <rect x="889.63" y="104" width="18.38" height="14" fill="#22D3EE"/>
+      <rect x="908.01" y="104" width="17.26" height="14" fill="#F472B6"/>
+      <rect x="925.27" y="104" width="26.73" height="14" fill="#64748B"/>
   </g>
   <g transform="translate(48.00 160)">
       <circle cx="6" cy="-5" r="6" fill="#60A5FA"/>
       <text class="lang" x="22" y="0">TypeScript</text>
-      <text class="pct" x="277.33" y="0" text-anchor="end">55.7%</text>
+      <text class="pct" x="277.33" y="0" text-anchor="end">55.5%</text>
     </g>
     <g transform="translate(349.33 160)">
       <circle cx="6" cy="-5" r="6" fill="#2DD4BF"/>
       <text class="lang" x="22" y="0">JavaScript</text>
-      <text class="pct" x="277.33" y="0" text-anchor="end">17.5%</text>
+      <text class="pct" x="277.33" y="0" text-anchor="end">17.8%</text>
     </g>
     <g transform="translate(650.67 160)">
       <circle cx="6" cy="-5" r="6" fill="#FBBF24"/>
       <text class="lang" x="22" y="0">Java</text>
-      <text class="pct" x="277.33" y="0" text-anchor="end">12.1%</text>
+      <text class="pct" x="277.33" y="0" text-anchor="end">12.0%</text>
     </g>
     <g transform="translate(48.00 194)">
       <circle cx="6" cy="-5" r="6" fill="#FB7185"/>
