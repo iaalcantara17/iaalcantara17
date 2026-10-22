@@ -61,7 +61,7 @@ B.S. Computer Science, cum laude (May 2026)
 
 **Languages:** Java, Python, TypeScript, JavaScript, C++, C, Bash, SQL, Kotlin
 
-**Cloud and infrastructure:** AWS, Linux, Supabase, Render, Vercel, Git
+**Cloud and infrastructure:** AWS (CloudWatch), Linux, Supabase, Render, Vercel, Git
 
 **Frameworks and tools:** React, React Native, Node.js, Express, Pandas, scikit-learn, MySQL, MongoDB
 
