@@ -35,7 +35,7 @@ A group meetup planner. Everyone shares a location, the group swipes on nearby s
 The source for my portfolio site, built with React 19, Vite, and GSAP. It has 2 Vercel serverless functions and 34 Playwright smoke tests that run in Chromium, Firefox, and WebKit in both light and dark mode.
 
 **[Data Analysis and Prediction App](https://github.com/iaalcantara17/Data-Analysis-App)**<br>
-A Streamlit app I built with Yash and Nekhi. Users upload CSV data, explore it in dynamic charts, and train a Gradient Boosting Regressor on it. Preprocessing handles missing values, scaling, and category encoding automatically, and users can pick features and check model predictions in real time. Built in Python with scikit-learn.
+A Streamlit app I built with two of my NJIT classmates, Nekhi Glover and Yash Amin. Users upload CSV data, explore it in dynamic charts, and train a Gradient Boosting Regressor on it. Preprocessing handles missing values, scaling, and category encoding automatically, and users can pick features and check model predictions in real time. Built in Python with scikit-learn.
 
 **[SFort95 Interpreter](https://github.com/iaalcantara17/SFort95-Interpreter)**<br>
 A lexer, a recursive-descent parser, and an interpreter in C++ for SFort95, a Fortran 95-style teaching language from NJIT's CS280. The interpreter runs each statement as it parses it and reports type and variable errors by line. The [lexer](https://github.com/iaalcantara17/Lexical-Analyzer-for-SFort95-Language) and [parser](https://github.com/iaalcantara17/Parser-for-SFort95-Language) repos are the earlier stages.
