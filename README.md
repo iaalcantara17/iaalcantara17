@@ -29,10 +29,13 @@ Based in New Jersey, open to roles across the NYC metro area.
 ## 📌 Featured Projects
 
 **[LinkdUp](https://github.com/iaalcantara17/LinkdUp)** ([live at linkdup.app](https://linkdup.app))<br>
-A group meetup planner. Everyone shares a location, the group swipes on nearby spots around the midpoint, votes on a place, and locks in a date that can go straight to Google Calendar. Swiping is locked-step, so everyone votes on the same card before the deck moves on. It was a five-person NJIT CS/IT 491 capstone that placed 2nd, and I was the backend engineer. Built with TypeScript, Expo and React Native Web, an Express API on Render, Supabase, and the web app on Vercel.
+A group meetup planner. Everyone shares a location, the group swipes on nearby spots around the midpoint, votes on a place, and locks in a date that can go straight to Google Calendar. Swiping is locked-step, so everyone votes on the same card before the deck moves on. It was a 5-person NJIT CS/IT 491 capstone that placed 2nd, and I was the backend engineer. Built with TypeScript, Expo and React Native Web, an Express API on Render, Supabase, and the web app on Vercel.
 
 **[PortfolioV2](https://github.com/iaalcantara17/PortfolioV2)** ([live at israelalcantara.vercel.app](https://israelalcantara.vercel.app))<br>
-The source for my portfolio site, built with React 19, Vite, and GSAP. It has two Vercel serverless functions and 34 Playwright smoke tests that run in Chromium, Firefox, and WebKit in both light and dark mode.
+The source for my portfolio site, built with React 19, Vite, and GSAP. It has 2 Vercel serverless functions and 34 Playwright smoke tests that run in Chromium, Firefox, and WebKit in both light and dark mode.
+
+**[Data Analysis and Prediction App](https://github.com/iaalcantara17/Data-Analysis-App)**<br>
+A Streamlit app I built with Yash and Nekhi. Users upload CSV data, explore it in dynamic charts, and train a Gradient Boosting Regressor on it. Preprocessing handles missing values, scaling, and category encoding automatically, and users can pick features and check model predictions in real time. Built in Python with scikit-learn.
 
 **[SFort95 Interpreter](https://github.com/iaalcantara17/SFort95-Interpreter)**<br>
 A lexer, a recursive-descent parser, and an interpreter in C++ for SFort95, a Fortran 95-style teaching language from NJIT's CS280. The interpreter runs each statement as it parses it and reports type and variable errors by line. The [lexer](https://github.com/iaalcantara17/Lexical-Analyzer-for-SFort95-Language) and [parser](https://github.com/iaalcantara17/Parser-for-SFort95-Language) repos are the earlier stages.
@@ -47,7 +50,7 @@ More projects are pinned above.
 ## 🎓 Education and Coursework
 
 **Montclair State University, Feliciano School of Business**<br>
-MBA (in progress)
+MBA (expected December 2028)
 - Fall 2026 coursework: Global Economy (ECON 565), Business Statistics (INFO 561, with R and Excel), Strategic Information Systems (INFO 565), Business Essentials (MGMT 560)
 - Planned electives: Project Management, Agile Project Management, Advanced Project Management, Complex Project and Program Management
 
