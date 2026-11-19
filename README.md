@@ -11,7 +11,7 @@
 
 I'm a CS graduate from NJIT's Ying Wu College of Computing (May 2026) and an MBA student at Montclair State University. I interned as a software development engineer on the Amazon Dedicated Cloud BlackMirror team at AWS. There I built a lossless compression algorithm for metric exports. It reduced export payloads by an average of 38 GB per day, and by up to 60 GB per day, across 3 air-gapped regions.
 
-I like working close to infrastructure. I care about how systems move data, where the bottlenecks are, and how to monitor them. I'm also drawn to the coordination side of technical work, which is why I'm studying project management alongside my CS background. I speak English and Spanish.
+I like working close to infrastructure. I care about how systems move data, where the bottlenecks are, and how to monitor them. I'm also drawn to the coordination side of technical work, which is why I'm studying project management alongside my CS background. I'm a ColorStack fellow, and I speak English and Spanish.
 
 ## 🎯 What I'm Looking For
 
